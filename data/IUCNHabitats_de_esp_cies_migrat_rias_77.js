@@ -1,0 +1,1 @@
+var json_IUCNHabitats_de_esp_cies_migrat_rias_77 = {"type":"FeatureCollection","name":"IUCNHabitats_de_esp_cies_migrat_rias_77","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
